@@ -1,7 +1,7 @@
 # Portfolio 
-Criação de Portifólio inspirado no artigo do [Diego Lopes](https://lopesdiego12.medium.com/como-criar-um-portf%C3%B3lio-de-maneira-simples-com-o-dom%C3%ADnio-github-io-8d4b8c3ba138)
+Criação de Portfólio inspirado no artigo do [Diego Lopes](https://lopesdiego12.medium.com/como-criar-um-portf%C3%B3lio-de-maneira-simples-com-o-dom%C3%ADnio-github-io-8d4b8c3ba138)
 
-#Resultado : [Portifolio]( https://annakcmaciel.github.io/portfolio/ )
+#Resultado : [Portfólio]( https://annakcmaciel.github.io/portfolio/ )
 
 [![Landing Page Preview](https://miro.medium.com/max/1400/1*T6N39dXX9hWO_yObsK72TQ.png)](https://annakcmaciel.github.io/portfolio/)
 
