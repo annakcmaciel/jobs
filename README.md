@@ -3,7 +3,7 @@ Criação de Portfólio inspirado no artigo do [Diego Lopes](https://lopesdiego1
 
 #Resultado : [Portfólio]( https://annakcmaciel.github.io/portfolio/ )
 
-[![Landing Page Preview](https://miro.medium.com/max/1400/1*T6N39dXX9hWO_yObsK72TQ.png)](https://annakcmaciel.github.io/portfolio/)
+[![Landing Page Preview](https://cdn-images-1.medium.com/max/800/1*PjxHM-fydRHGRBv50nIQDg.png)](https://annakcmaciel.github.io/portfolio/)
 
 ## Passo 1 - Escolha do Tema
 Na Página da ( https://startbootstrap.com/) você consegue diversos temas para Download.
